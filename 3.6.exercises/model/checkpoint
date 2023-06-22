@@ -1,0 +1,2 @@
+model_checkpoint_path: "b_srv_1_reqsize_1_PG.ckpt"
+all_model_checkpoint_paths: "b_srv_1_reqsize_1_PG.ckpt"

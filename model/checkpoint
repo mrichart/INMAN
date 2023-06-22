@@ -1,0 +1,2 @@
+model_checkpoint_path: "b_srv_n_srvsize_o_reqsize_m_keep_req_DQN.ckpt"
+all_model_checkpoint_paths: "b_srv_n_srvsize_o_reqsize_m_keep_req_DQN.ckpt"
